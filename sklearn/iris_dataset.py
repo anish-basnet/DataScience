@@ -1,5 +1,4 @@
 from sklearn.linear_model import LinearRegression;
-from sklearn.feature_extraction import dict_vectorizer;
 from sklearn.model_selection import cross_val_score,train_test_split;
 import pandas as pd;
 
