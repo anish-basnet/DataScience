@@ -1,0 +1,43 @@
+tracked the location
+
+1. Signup and login.
+2. GPS or location should be on.
+3. Should open the internet by sender too. 
+4. Generate the code for location and send it to the receiver.
+5. Constaintly monitor the location of the sender by reciver as well as by sender
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bitcoin like application 
+DigiCurrency
+
+
+1. First signup and login to the site with your bank account number, username, email and many more.
+	Here, all of the information will be cryptographically secure and this information will only available to the respective user. 
+	All the database will be secure like blockchain like method.  
+2. Seller will create the barcode with repective product details with username secret key and will display to the monitor for the payment. 
+3. Buyer will only capture the barcode from the app's camera and transacation will occure accordingly in short amount of time. 
+4. It will be secure in each and every way. This apps will be in use for bank to bank transactions. The person don't need to 
+	carry the wallet. 
+
+
+Transfer Anything through phone movement
+1. Open apps between 2 sender and receiver
+2. Just swipe and send . All the devices with apps open people will automatically get the file.
+
+
+
+dare Games
+1. Dare the games 
